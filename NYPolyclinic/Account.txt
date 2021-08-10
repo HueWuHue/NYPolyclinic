@@ -1,0 +1,8 @@
+User Account:
+username:T0392511G,password:daniel
+Doctor Account:
+username:T1111111F,password:123
+username:T2222222F,password:123
+username:T3333333F,password:123
+Admin Account:
+username:T5739128U,password:chloe
